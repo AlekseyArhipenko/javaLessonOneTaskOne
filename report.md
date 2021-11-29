@@ -7,17 +7,17 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/AlekseyArhipenko/javaLessonOneTaskOne/issues/1
+* [Issues](https://github.com/AlekseyArhipenko/javaLessonOneTaskOne/issues/1)
 
 
 ## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты*:
-* Спецификация (задание)
-* Баг-репорт
+В процессе тестирования использовались следующие артефакты:
+* [Спецификация (задание)](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
 
 
-В качестве тестовых данных использовались данные из задачи 1 (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
+
+В качестве тестовых данных использовались данные из [задачи 1](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
 * текущий баланс счёта клиента - переменная типа int, значение - 2_000_000_000 (два миллиарда рублей)
 * сумма перевода - переменная типа int, значение - 500_000_000 (пятьсот миллионов рублей)
 * переменная для хранения итогового значения - тип int
